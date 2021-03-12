@@ -1,0 +1,10 @@
+# macOS Files
+**/.DS_Store
+
+# jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# folders
+/data/
+data/
