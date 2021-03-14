@@ -1,1 +1,1 @@
-Exploring my Spotify data
+Exploring & visualizing my Spotify streaming data
