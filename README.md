@@ -1,3 +1,9 @@
-Exploring & visualizing my Spotify streaming data
+# Exploring & visualizing a playlist using Spotify and Genius APIs.
 
-See the report [here](https://datastudio.google.com/embed/reporting/4dd3b170-6c28-4419-ae92-dbf5fd7cc2e7/page/ss47B)
+Follow my [blog](https://annadangela.medium.com/playlist-analysis-using-genius-api-d7dedaaf4b9?sk=e39b6f903590d799852a8f2f7cdf4a8f).
+
+In this repo, we will explore how to use the Spotify API to gather playlist data. Then we will analyze the songs in the playlist for music feature scores and plot as a radar graph.
+<img alt="radar plot of playlist music features" src="./images/radar.png" width="600"/>
+
+We will then use the Genius API to gather lyric data for the songs and run a quick sentiment analysis of the playlist using VADER.
+<img alt="bar chart comparing vader scores per song" src="./images/vader_scores.png" width="600"/>
